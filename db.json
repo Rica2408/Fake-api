@@ -1,0 +1,64 @@
+{
+    "transactions": [
+        {
+            "id": "1",
+            "label": "Netflix",
+            "amount": 500,
+            "date": "Mon Jun 13 2023 00:00:00 GMT-0600 (hora estándar central)"
+        },
+        {
+            "id": "2",
+            "label": "uber",
+            "amount": -500,
+            "date": "Mon Feb 13 2023 00:00:00 GMT-0600 (hora estándar central)"
+        },
+        {
+            "id": "3",
+            "label": "uber",
+            "amount": -500,
+            "date": "Mon Feb 13 2023 00:00:00 GMT-0600 (hora estándar central)"
+        },
+        {
+            "id": "4",
+            "label": "uber",
+            "amount": -500,
+            "date": "Mon Feb 13 2023 00:00:00 GMT-0600 (hora estándar central)"
+        },
+        {
+            "id": "5",
+            "label": "uber",
+            "amount": -500,
+            "date": "Mon Feb 13 2023 00:00:00 GMT-0600 (hora estándar central)"
+        },
+        {
+            "id": "6",
+            "label": "Restaurante",
+            "amount": 500,
+            "date": "Mon Feb 13 2023 00:00:00 GMT-0600 (hora estándar central)"
+        },
+        {
+            "id": "7",
+            "label": "Comida",
+            "amount": -500,
+            "date": "Mon Jun 16 2023 00:00:00 GMT-0600 (hora estándar central)"
+        },
+        {
+            "id": "8",
+            "label": "Nomina",
+            "amount": 50000,
+            "date": "Mon Jun 23 2023 00:00:00 GMT-0600 (hora estándar central)"
+        },
+        {
+            "id": "9",
+            "label": "Telefono",
+            "amount": -5200,
+            "date": "Mon Jun 28 2023 00:00:00 GMT-0600 (hora estándar central)"
+        },
+        {
+            "id": "10",
+            "label": "Nomina",
+            "amount": 1500,
+            "date": "Mon Jun 28 2023 00:00:00 GMT-0600 (hora estándar central)"
+        }
+    ]
+}
